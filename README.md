@@ -10,5 +10,8 @@ In this notebook one can learn the basics of using the Package Plotnine for data
 - Data Storytelling with Charts
 - Advanced Visualizations
 
+# Data
+- GapMinder Data
+
 # Dependenceis
 - Plotine
